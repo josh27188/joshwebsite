@@ -47,7 +47,7 @@ function App() {
       <section id="about" className="reveal">
         <h2 className="accent-text">About Me</h2>
         <p style={{ maxWidth: '600px', fontSize: '1.2rem', marginTop: '20px', color: 'var(--text-secondary)' }}>
-          I am a driven Mechanical Engineering student at Cal Poly Pomona with a strong background in manufacturing and robotics. 
+          I am a driven Mechanical Engineering student at Cal Poly Pomona with a strong background in manufacturing and robotics.
           Currently serving as a Robot Inspector for FIRST Robotics and a Mentor for FRC teams 5124 and 1197.
         </p>
       </section>
